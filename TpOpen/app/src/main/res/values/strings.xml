@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculIMc</string>
+    <string name="rad1"> Mètre</string>
+    <string name="rad2">centiMètre</string>
+    <string name="poids">Poids</string>
+    <string name="taille">Taille</string>
+    <string name="meg">Mega fonction !</string>
+    <string name="btcal">Calculer IMC</string>
+    <string name="raz">RAZ</string>
+    <string name="res">Résultat :</string>
+    <string name="res1">vous devez cliquer sur le boutton calculer IMC pour obtenir le résultat</string>
+    <string name="nom">Nom</string>
+    <string name="ppbt">popup</string>
+</resources>
